@@ -1,0 +1,5 @@
+title: Readable Blog
+description: A simple Jekyll site for markdown-based posts.
+baseurl: ""
+url: ""
+markdown: kramdown
