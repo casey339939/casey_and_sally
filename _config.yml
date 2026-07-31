@@ -1,0 +1,5 @@
+title: Sally Sources
+description: A simple Jekyll site for markdown-based posts.
+baseurl: "/casey_and_sally"
+url: "https://casey339939.github.io"
+markdown: kramdown
